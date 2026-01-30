@@ -1,4 +1,4 @@
-# Training on Python 🐍
+# Training on Python 
 
 This repository contains my **Python learning and practice programs**.
 I created this repo to improve my Python fundamentals step by step and
